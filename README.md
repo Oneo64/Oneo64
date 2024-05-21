@@ -1,1 +1,1 @@
-Hi I'm Neo and I make worlds and code games.
+Hi I'm Neo and I make worlds and languages, and I also code games.
