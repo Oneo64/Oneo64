@@ -8,8 +8,8 @@ Hi, I'm Neo, and I code (and have made) games, apps, websites, and even programs
 - [FRC Robot 2 Controllers](https://github.com/Oneo64/2024-FRC-After-Season-Playoff-SWERVE)
 - [Linked list demo in python](https://github.com/Oneo64/linked-list-example)
 - [Python server hosting demo](https://github.com/Oneo64/server-hosting-example)
-- [WoW Style Translator](https://github.com/Oneo64/WoW-Style-Translator)
-  - *Note that this isn't actually translating input text into an actual, learnable language.*
+- [WoW-style translator](https://github.com/Oneo64/WoW-Style-Translator)
+  - *Note that this only "translates" input into random gibberish, much like the language system seen in-game.*
 
 #### Languages (conlangs)
 - [Kagalarian Dictionary](https://github.com/Oneo64/Kagalarian-Dictionary)
