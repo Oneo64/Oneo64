@@ -1,4 +1,4 @@
-Hi, I'm Neo and I code games and apps. I also like to make worlds and languages, so you'll find those in my repositories too.
+Hi, I'm Neo, and I code (and have made) games, apps, websites, and even programs for real-life robots using multiple programming languages (C, Java, Python, etc). I also like to make worlds and languages, so you'll find those in my repositories too. Other handles I use include @neo_256 on YouTube and Needaadoo on Scratch.
 
 #### Programming
 - [AI Story](https://github.com/Oneo64/AI-Story)
