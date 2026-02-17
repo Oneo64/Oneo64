@@ -14,6 +14,7 @@ Hi, I'm Neo, and I code (and have made) games, apps, websites, and even programs
 #### Languages (conlangs)
 - [Kagalarian Dictionary](https://github.com/Oneo64/Kagalarian-Dictionary)
 - [Oddarish Dictionary](https://github.com/Oneo64/Oddarish-Dictionary)
+- [Ranûdan Dictionary](https://github.com/Oneo64/Ranudan-Dictionary)
 
 #### Worldbuilding projects
 - [Aldraheimr](https://github.com/Oneo64/Aldraheimr)
