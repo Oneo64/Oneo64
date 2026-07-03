@@ -1,4 +1,4 @@
-I make games, apps, websites, and programs for real-life robots using multiple programming languages (C, C#, Java, JavaScript, Python, etc). I also like to create worlds, languages, characters, and creative writing tools (like item generators). Other handles I use include @neo_256 on YouTube, Needaadoo on Scratch, Niall/Njáll/Rhondar for RPGs whenever I need a more medieval-sounding name, etc.
+Hello, my name is Neo and I make games, apps, websites, and programs for real-life robots using multiple programming languages (C, C#, Java, JavaScript, Python, etc). I also like to create worlds, languages, characters, and creative writing tools (like item generators). Other handles I use include @neo_256 on YouTube, Needaadoo on Scratch, Niall/Njáll/Rhondar for RPGs whenever I need a more medieval-sounding name, etc.
 
 #### Coding projects
 - [AI Story](https://github.com/Oneo64/AI-Story)
