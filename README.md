@@ -10,7 +10,7 @@ Hello, my name is Neo and I make games, apps, websites, and programs for real-li
 - [Linked list demo in python](https://github.com/Oneo64/linked-list-example)
 - [Python server hosting demo](https://github.com/Oneo64/server-hosting-example)
 
-#### Helpers for Creative Writing
+#### Tools for creative writing
 - [Magic item generator](https://github.com/Oneo64/MagicItemGenerator)
 - [Word generator](https://github.com/Oneo64/Word-Generator)
 - [WoW-style translator](https://github.com/Oneo64/WoW-Style-Translator)
