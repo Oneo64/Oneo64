@@ -23,5 +23,6 @@ Hello, my name is Neo and I make games, apps, websites, and programs for real-li
 
 #### Worldbuilding projects
 - [Aldraheimr](https://github.com/Oneo64/Aldraheimr)
+- [Aldraheimr (2nd Edition)](https://github.com/Oneo64/Aldraheimr2ndEdition)
 - [The Mirk of Agmundr](https://github.com/Oneo64/The-Mirk-of-Agmundr)
 - [Starlattice](https://github.com/Oneo64/Starlattice)
