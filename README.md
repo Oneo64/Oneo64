@@ -18,8 +18,8 @@ Hello, my name is Neo and I make games, apps, websites, and programs for real-li
 
 #### Languages (conlangs)
 - [Kagalarian Dictionary](https://github.com/Oneo64/Kagalarian-Dictionary)
-- [Oddarish Dictionary](https://github.com/Oneo64/Oddarish-Dictionary)
 - [Northmannish Dictionary](https://github.com/Oneo64/Northmannish-Dictionary)
+- [Oddarish Dictionary](https://github.com/Oneo64/Oddarish-Dictionary)
 - [Ranûdan Dictionary](https://github.com/Oneo64/Ranudan-Dictionary)
 
 #### Worldbuilding projects
